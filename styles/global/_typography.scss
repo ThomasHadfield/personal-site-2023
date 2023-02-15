@@ -1,0 +1,113 @@
+// FONTS
+
+html {
+    font-size: 62.5%;
+}
+
+@font-face {
+    font-family: 'studiofeixen-variable';
+    src: url('/fonts/studio-feixen-sans-variable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'studiofeixen';
+    src: url('/fonts/StudioFeixenSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'studiofeixen';
+    src: url('/fonts//StudioFeixenSans-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
+
+// H1 Animation
+
+@keyframes font-animation {
+    0% {font-variation-settings: "wght" 400, "wdth" 100; }
+    25% {font-variation-settings: "wght" 800, "wdth" 100; }
+    50% {font-variation-settings: "wght" 600, "wdth" 75; }
+    75% {font-variation-settings: "wght" 400, "wdth" 75; }
+    100% {font-variation-settings: "wght" 400, "wdth" 100; }
+}
+
+.animated {
+    animation: font-animation infinite;
+    animation-duration: 6s;
+    transition-timing-function: ease-in-out;
+}
+
+
+// Typography
+
+h1{
+    // font-size: 32em;
+    font-size: 21vw;
+    line-height: 79%;
+    letter-spacing: -0.08em;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: 'studiofeixen-variable', Arial, Helvetica, sans-serif;
+    font-variation-settings: 'wght' 400, 'wdth' 100;
+    margin:0;
+    cursor: default;
+}
+
+h2{
+    font-size: 4rem;
+    line-height: 4rem;
+    font-family: 'studiofeixen', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-transform: capitalize;
+    letter-spacing: -0.02em;
+    margin: 0;
+}
+
+h3{
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    font-family: 'studiofeixen', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin:0;
+}
+
+.h3-reg{
+    font-size: 1.3rem;
+    line-height: 1.3rem;
+    font-family: 'studiofeixen', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-left: 14px;
+}
+
+p{
+    font-family: 'studiofeixen', Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+    margin: 0;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+    margin: 0;
+}
+
+.link-hover{
+    transition: 300ms;
+}
+
+.link-hover:hover{
+    opacity: 45%;
+}

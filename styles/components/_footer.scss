@@ -1,0 +1,28 @@
+// Footer Styles
+
+footer{
+    margin-top: 160px;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-left-first{
+    margin-right: 20px;
+}
+
+.footer-content-left{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-content-right{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+}

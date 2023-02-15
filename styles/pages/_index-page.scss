@@ -1,0 +1,60 @@
+// INDEX PAGE
+
+
+
+// Hero Section
+
+.animated-name-wrap{
+    margin-bottom: 30px;
+}
+
+.bio-wrap{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bio-wrap p{
+    width: 49%;
+}
+
+
+
+
+// Project Section
+
+.portfolio{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.project{
+    margin-bottom: 40px;
+    width: calc(50% - 5px);
+}
+
+.project a{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.project-image-wrap{
+    width: 100%;
+    transition: 500ms;
+}
+
+.project-image-wrap:hover{
+    cursor: pointer;
+    opacity: 80%;
+}
+
+.project img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.project-title-wrap{
+    padding-top: 4px;
+}

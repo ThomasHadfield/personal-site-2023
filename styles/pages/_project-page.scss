@@ -1,0 +1,62 @@
+// PROJECT PAGES
+
+
+// Project Info
+
+.project-info{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 330px;
+}
+
+.project-name-wrap{
+    width: 50%;
+}
+
+.project-details-wrap{
+    width: 50%;
+}
+
+
+
+
+
+// Images
+
+.case-study{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.case-study img,
+.case-study video{
+    margin: 0;
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+
+// One Column Layout
+
+.one-col{
+    width: 100%
+}
+
+
+// Two Column Layout
+
+.two-col{
+    width: calc(50% - 5px);
+}
+
+
+// Three Column Layout
+
+.three-col{
+    width: calc(33% - 1.5px);
+}

@@ -1,0 +1,29 @@
+// Header Styles
+
+header{
+    margin-bottom: 120px;
+    }
+    
+    .header-top{
+        margin-bottom: 60px;
+    }
+    
+    .header-top-content{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    
+    .small-text-wrap{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .circle-before{
+        height: 10px;
+        width: 10px;
+        background: #000;
+        margin-top: 1px;
+        margin-right: 6px;
+        border-radius: 30px;
+    }

@@ -9,3 +9,4 @@ thomashadfield.com
 
 ### Feb 23
 - Added Howell Plumbing work
+- Updated Medium footer link in the components JS file

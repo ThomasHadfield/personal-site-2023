@@ -15,3 +15,7 @@ thomashadfield.com
 ### Mar 13
 - Updated bio on home page
 - Fixed video not playing for Alphabyte project
+
+
+### Apr 5
+- Added Awwwards badge to home page

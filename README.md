@@ -3,19 +3,23 @@ thomashadfield.com
 
 
 
-### Feb 16
+### Feb 16-2023
 - Initial file upload
 
 
-### Feb 23
+### Feb 23-2023
 - Added Howell Plumbing work
 - Updated Medium footer link in the components JS file
 
 
-### Mar 13
+### Mar 13-2023
 - Updated bio on home page
 - Fixed video not playing for Alphabyte project
 
 
-### Apr 5
+### Apr 5-2023
 - Added Awwwards badge to home page
+
+
+### July 5-2023
+- Updated Whitecap case study images

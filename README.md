@@ -23,3 +23,9 @@ thomashadfield.com
 
 ### July 5-2023
 - Updated Whitecap case study images
+- Added U of T case
+
+
+### July 6-2023
+- Updated U of T html file
+- Added Ivey case

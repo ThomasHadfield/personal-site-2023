@@ -29,3 +29,4 @@ thomashadfield.com
 ### July 6-2023
 - Updated U of T html file
 - Added Ivey case
+- updated howell plumbing images

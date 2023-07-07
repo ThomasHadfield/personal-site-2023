@@ -30,3 +30,5 @@ thomashadfield.com
 - Updated U of T html file
 - Added Ivey case
 - updated howell plumbing images
+- updated image ordering on home page
+- updated naming convention in browser tabs

@@ -32,3 +32,4 @@ thomashadfield.com
 - updated howell plumbing images
 - updated image ordering on home page
 - updated naming convention in browser tabs
+- updated UofT images

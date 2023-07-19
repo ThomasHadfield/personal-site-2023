@@ -1,5 +1,5 @@
 // Page Loader
-var loader = document.getElementById("pre-loader");
+var loader = document.getElementById("pre-load");
 window.addEventListener("load", function() {
     loader.style.display = "none";
 })
@@ -48,8 +48,6 @@ links.forEach((link) => {
         cursor.classList.remove("grow");
     });
 });
-
-
 
 
 

@@ -69,7 +69,7 @@ li{
 
 
 /* GLOBAL Pre-loader */
-#pre-loader{
+#pre-load{
     background: #fff;
     position: fixed;
     z-index: 1000;
@@ -88,12 +88,12 @@ li{
 
 @keyframes loading-animation {
     0% {font-variation-settings: "wght" 400; }
-    50% {font-variation-settings: "wght" 600; }
+    50% {font-variation-settings: "wght" 800; }
     100% {font-variation-settings: "wght" 400;}
 }
 
 .loading-animation {
     animation: loading-animation infinite;
-    animation-duration: 2.5s;
+    animation-duration: 4s;
     transition-timing-function: ease-in-out;
 }

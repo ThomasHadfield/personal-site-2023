@@ -33,3 +33,10 @@ thomashadfield.com
 - updated image ordering on home page
 - updated naming convention in browser tabs
 - updated UofT images
+
+
+### July 18-2023
+- Updated loader id tag for all html, css and js files
+- Added Localcoin html page, homepage cover image and case images
+
+

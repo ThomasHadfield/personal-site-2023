@@ -44,8 +44,7 @@ class PageFooter extends HTMLElement {
                             <h3>social</h3>
                             <h3 class="h3-reg"> 
                                 <a class="link-hover" href="https://www.linkedin.com/in/thomashadfield" target="_blank" rel="noopener noreferrer">LinkedIn</a>,
-                                <a class="link-hover" href="https://www.instagram.com/field.type/" target="_blank" rel="noopener noreferrer">Instagram</a>,
-                                <a class="link-hover" href="https://thomashadfield.medium.com/" target="_blank" rel="noopener noreferrer">Medium</a>
+                                <a class="link-hover" href="https://www.instagram.com/field.type/" target="_blank" rel="noopener noreferrer">Instagram</a>
                             </h3> 
                         </div>
                     </div>

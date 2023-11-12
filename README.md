@@ -40,3 +40,9 @@ thomashadfield.com
 - Added Localcoin html page, homepage cover image and case images
 
 
+
+### Oct 11-2023
+- Reversed poster image order
+- Removed social item from footer
+- updated bio width in css
+

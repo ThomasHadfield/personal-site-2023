@@ -47,7 +47,7 @@
     // Index Header
 
     .bio-wrap p{
-        width: 100%;
+        grid-column: 1 / span 10;
     }
 
     // Project Section
@@ -119,12 +119,12 @@
     //     background: orange;
     // }
 
-
-    // Index Header
+    // INDEX
 
     .bio-wrap p{
-        width: 70%;
+        grid-column: 7 / span 6;
     }
+
 
     // Project Section
 
@@ -177,13 +177,6 @@
     //     background: greenyellow;
     // }
 
-
-
-    // Index Header
-
-    .bio-wrap p{
-        width: 49%;
-    }
 
     
     // Project Section
@@ -325,7 +318,7 @@
     // Index Header
 
     .bio-wrap p{
-        width: 32%;
+        grid-column: 9 / span 4;
     }
 
 

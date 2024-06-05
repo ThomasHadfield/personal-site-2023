@@ -46,3 +46,11 @@ thomashadfield.com
 - Removed social item from footer
 - updated bio width in css
 
+
+### Jun 4-2024
+- Added Monica's updated project images
+- rearranged projects on index page
+- updated bio text
+- updated bio scss from flexbox to css grid
+
+

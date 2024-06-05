@@ -9,13 +9,13 @@
 }
 
 .bio-wrap{
-    width: 100%;
-    display: flex;
-    justify-content: flex-end;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    column-gap: 10px;
 }
 
 .bio-wrap p{
-    width: 49%;
+    grid-column: 7 / span 6;
 }
 
 

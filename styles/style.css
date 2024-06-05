@@ -360,13 +360,14 @@ footer {
 }
 
 .bio-wrap {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  -moz-column-gap: 10px;
+       column-gap: 10px;
 }
 
 .bio-wrap p {
-  width: 49%;
+  grid-column: 7/span 6;
 }
 
 .portfolio {
@@ -471,7 +472,7 @@ footer {
     margin-bottom: 4px;
   }
   .bio-wrap p {
-    width: 100%;
+    grid-column: 1/span 10;
   }
   .project {
     width: 100%;
@@ -505,7 +506,7 @@ footer {
 }
 @media (min-width: 600px) {
   .bio-wrap p {
-    width: 70%;
+    grid-column: 7/span 6;
   }
   .project {
     width: 100%;
@@ -528,9 +529,6 @@ footer {
   }
 }
 @media (min-width: 750px) {
-  .bio-wrap p {
-    width: 49%;
-  }
   .project {
     width: calc(50% - 5px);
   }
@@ -597,7 +595,7 @@ footer {
 }
 @media (min-width: 1620px) {
   .bio-wrap p {
-    width: 38%;
+    grid-column: 9/span 4;
   }
   .project {
     width: calc(33% - 1.5px);

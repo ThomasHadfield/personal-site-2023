@@ -54,3 +54,8 @@ thomashadfield.com
 - updated bio scss from flexbox to css grid
 
 
+### Jun 12-2024
+- uploaded new index page wth updated bio
+- rearranged the order of projects on home page, moved alphabyte closer to top
+- changed back button text on project pages to 'back to work'
+- uploaded new images to the alphabyte project

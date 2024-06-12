@@ -11,7 +11,7 @@ class ProjectPageHeader extends HTMLElement {
 
                     <div class="small-text-wrap">
                         <h3>
-                            <a class="link-hover" href="index.html" target="_self" rel="noopener noreferrer">back to the index</a>
+                            <a class="link-hover" href="index.html" target="_self" rel="noopener noreferrer">back to work</a>
                         </h3>
                     </div>
                     

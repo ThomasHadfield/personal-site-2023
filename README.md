@@ -55,7 +55,20 @@ thomashadfield.com
 
 
 ### Jun 12-2024
-- uploaded new index page wth updated bio
+- uploaded new index page with updated bio
 - rearranged the order of projects on home page, moved alphabyte closer to top
 - changed back button text on project pages to 'back to work'
 - uploaded new images to the alphabyte project
+
+
+### July 17-2024
+- uploaded new CareRx images to project page
+
+
+
+
+
+
+
+
+

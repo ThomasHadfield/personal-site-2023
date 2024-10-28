@@ -65,6 +65,11 @@ thomashadfield.com
 - uploaded new CareRx images to project page
 
 
+### Oct 28-2024
+- Added 36 Days 2023 project
+- Uploaded more posters, tweaked poster description
+
+
 
 
 
